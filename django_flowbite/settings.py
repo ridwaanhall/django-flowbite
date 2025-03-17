@@ -32,7 +32,9 @@ if not DEBUG:
         '.ridwaanhall.me'
     ]
 else:
-    ALLOWED_HOSTS = []
+    ALLOWED_HOSTS = [
+        '.vercel.app',
+    ]
 
 
 # Application definition
