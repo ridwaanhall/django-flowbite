@@ -136,7 +136,7 @@ STATICFILES_DIRS = [
     BASE_DIR / 'static',
 ]
 
-COMPRESS_ROOT = BASE_DIR / 'static'
+COMPRESS_ROOT = BASE_DIR / 'staticfiles'
 
 COMPRESS_ENABLED = True
 
