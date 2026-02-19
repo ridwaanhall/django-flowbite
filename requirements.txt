@@ -1,5 +1,5 @@
 asgiref==3.8.1
-Django==5.2.8
+Django==5.2.11
 django-appconf==1.1.0
 django-compressor==4.5.1
 python-decouple==3.8
